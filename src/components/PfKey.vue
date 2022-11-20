@@ -1,5 +1,5 @@
 <template>
-    <table class="Table">
+    <table class="Table-pfKey">
         <tbody class="Table-Body">
             <tr class="Table-Body-Row">
                 <td class="Table-Body-Row-Cell" v-for="menuItem in menuItemsUpper" :key="menuItem.id">{{ menuItem.menuName }}</td>
@@ -50,7 +50,7 @@ export default {
 </script>
 
 <style>
-.Table {
+.Table-pfKey {
     width: 100%;
     border: solid 2px #333;
     border-collapse: collapse;

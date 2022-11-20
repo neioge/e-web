@@ -1,5 +1,5 @@
 <template>
-    <div class="home">
+    <div class="Menu">
         <PfKey/>
         <HelloWorld msg="業務メニュー"/>
         <GMenu/>
@@ -20,3 +20,6 @@ export default {
     }
 }
 </script>
+
+<style scoped>
+</style>

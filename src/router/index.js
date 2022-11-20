@@ -1,12 +1,17 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue'
-import MenuView from '../views/MenuView.vue'
+import SubMenuView from '../views/SubMenuView.vue'
+import GMenuView from '../views/GMenuView.vue'
 
 const routes = [
   {
     path: '/',
-    name: 'home',
-    component: HomeView
+    name: 'SubMenu',
+    component: SubMenuView
+  },
+  {
+    path: '/about/:id',
+    name: 'aboutParam',
+    component: () => import('../views/AboutView.vue')
   },
   {
     path: '/about',
@@ -14,9 +19,9 @@ const routes = [
     component: () => import('../views/AboutView.vue')
   },
   {
-    path: '/gmenu',
+    path: '/gmenu/:subMenuId',
     name: 'gmenu',
-    component: MenuView
+    component: GMenuView
   }
 ]
 
