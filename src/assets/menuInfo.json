@@ -5,123 +5,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1-1"
+        "gMenuName": "gMenu1-1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -131,123 +161,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu2-1"
+        "gMenuName": "gMenu2-1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -257,123 +317,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu3-1"
+        "gMenuName": "gMenu3-1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -383,249 +473,309 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
   {
     "subMenuId": 5,
-    "subMenuName": "subMenu2",
+    "subMenuName": "subMenu5",
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -635,123 +785,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -761,123 +941,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -887,123 +1097,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -1013,123 +1253,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -1139,123 +1409,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -1265,123 +1565,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -1391,123 +1721,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -1517,123 +1877,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -1643,123 +2033,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -1769,123 +2189,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -1895,123 +2345,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -2021,123 +2501,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -2147,123 +2657,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -2273,123 +2813,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -2399,123 +2969,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -2525,123 +3125,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -2651,123 +3281,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -2777,123 +3437,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -2903,123 +3593,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -3029,123 +3749,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -3155,123 +3905,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -3281,123 +4061,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -3407,123 +4217,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -3533,123 +4373,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   },
@@ -3659,123 +4529,153 @@
     "guidanceMenus": [
       {
         "gMenuId": 1,
-        "gMenuName": "gMenu1"
+        "gMenuName": "gMenu1",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 2,
-        "gMenuName": "gMenu2"
+        "gMenuName": "gMenu2",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 3,
-        "gMenuName": "gMenu3"
+        "gMenuName": "gMenu3",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 4,
-        "gMenuName": "gMenu4"
+        "gMenuName": "gMenu4",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 5,
-        "gMenuName": "gMenu5"
+        "gMenuName": "gMenu5",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 6,
-        "gMenuName": "gMenu6"
+        "gMenuName": "gMenu6",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 7,
-        "gMenuName": "gMenu7"
+        "gMenuName": "gMenu7",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 8,
-        "gMenuName": "gMenu8"
+        "gMenuName": "gMenu8",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 9,
-        "gMenuName": "gMenu9"
+        "gMenuName": "gMenu9",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 10,
-        "gMenuName": "gMenu10"
+        "gMenuName": "gMenu10",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 11,
-        "gMenuName": "gMenu11"
+        "gMenuName": "gMenu11",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 12,
-        "gMenuName": "gMenu12"
+        "gMenuName": "gMenu12",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 13,
-        "gMenuName": "gMenu13"
+        "gMenuName": "gMenu13",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 14,
-        "gMenuName": "gMenu14"
+        "gMenuName": "gMenu14",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 15,
-        "gMenuName": "gMenu15"
+        "gMenuName": "gMenu15",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 16,
-        "gMenuName": "gMenu16"
+        "gMenuName": "gMenu16",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 17,
-        "gMenuName": "gMenu17"
+        "gMenuName": "gMenu17",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 18,
-        "gMenuName": "gMenu18"
+        "gMenuName": "gMenu18",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 19,
-        "gMenuName": "gMenu19"
+        "gMenuName": "gMenu19",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 20,
-        "gMenuName": "gMenu20"
+        "gMenuName": "gMenu20",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 21,
-        "gMenuName": "gMenu21"
+        "gMenuName": "gMenu21",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 22,
-        "gMenuName": "gMenu22"
+        "gMenuName": "gMenu22",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 23,
-        "gMenuName": "gMenu23"
+        "gMenuName": "gMenu23",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 24,
-        "gMenuName": "gMenu24"
+        "gMenuName": "gMenu24",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 25,
-        "gMenuName": "gMenu25"
+        "gMenuName": "gMenu25",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 26,
-        "gMenuName": "gMenu26"
+        "gMenuName": "gMenu26",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 27,
-        "gMenuName": "gMenu27"
+        "gMenuName": "gMenu27",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 28,
-        "gMenuName": "gMenu28"
+        "gMenuName": "gMenu28",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 29,
-        "gMenuName": "gMenu29"
+        "gMenuName": "gMenu29",
+        "initialScreen": "GAX10119"
       },
       {
         "gMenuId": 30,
-        "gMenuName": "gMenu30"
+        "gMenuName": "gMenu30",
+        "initialScreen": "GAX10119"
       }
     ]
   }

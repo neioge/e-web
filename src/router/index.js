@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import SubMenuView from '../views/SubMenuView.vue'
-import GMenuView from '../views/GMenuView.vue'
+import SubMenuView from '@/views/SubMenuView.vue'
+import GMenuView from '@/views/GMenuView.vue'
 
 const routes = [
   {
@@ -11,12 +11,12 @@ const routes = [
   {
     path: '/about/:id',
     name: 'aboutParam',
-    component: () => import('../views/AboutView.vue')
+    component: () => import('@/views/AboutView.vue')
   },
   {
     path: '/about',
     name: 'about',
-    component: () => import('../views/AboutView.vue')
+    component: () => import('@/views/AboutView.vue')
   },
   {
     path: '/gmenu/:subMenuId',

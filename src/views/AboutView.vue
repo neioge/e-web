@@ -1,8 +1,16 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>初画面 現在はVueの機能のテスト用の場所</h1>
+
+
+    <!-- requireを使ってJsonファイルを読み込むテスト -->
+    <h3>requireを使ってJsonファイルを読み込むモジュール</h3>
+    <p v-for="(menu, index) in screenInfo" :key="index">
+     画面ID : {{menu.screenId}}
+    </p>
 
     <!-- URLパラメータ付きのリンク。クリックをするとroute.jsで定義したパラメータ付きのパスにルーティングされる -->
+    <h3>URLパラメータ付きのリンク</h3>
     <p><router-link to="/about/1">・パラメータ 1表示</router-link></p>
     <p><router-link to="/about/2">・パラメータ 2表示</router-link></p>
     <p><router-link to="/about/3">・パラメータ 3表示</router-link></p>
@@ -47,7 +55,8 @@
 </template>
 
 <script>
-import AllMenus from '../assets/menuInfo.json'
+import AllMenus from '@/assets/menuInfo.json'
+import {readJson} from '@/utils/getScreenInfo.js'
 
 export default{
   data: function(){
@@ -55,19 +64,24 @@ export default{
       message: 'データの受け渡しテスト',
       path:  this.$route.path,
       splitedURLStrings: [],
-      AllMenus: AllMenus
+      AllMenus: AllMenus,
+      screenInfo:[]
     }
   },
   created() {
     this.splitedURLStrings = this.path.split('/');
   },
+  mounted(){
+    console.log("マウントしました。")
+    this.screenInfo = readJson("GAX10119");
+  },
   computed: {
     splitURL: function () {
       return this.$route.path.split('/');
     },
-    extractGMenus: function() {
-      return this.AllMenus[this.$route.params.id - 1].guidanceMenus;
-    }
+    // extractGMenus: function() {
+    //   return this.AllMenus[this.$route.params.id - 1].guidanceMenus;
+    // }
   },
   methods: {
     splitURLMethod: function (){
