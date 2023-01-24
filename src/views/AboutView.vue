@@ -2,7 +2,6 @@
   <div class="about">
     <h1>初画面 現在はVueの機能のテスト用の場所</h1>
 
-
     <!-- requireを使ってJsonファイルを読み込むテスト -->
     <h3>requireを使ってJsonファイルを読み込むモジュール</h3>
     <p v-for="(menu, index) in screenInfo" :key="index">
@@ -10,7 +9,7 @@
     </p>
 
     <!-- URLパラメータ付きのリンク。クリックをするとroute.jsで定義したパラメータ付きのパスにルーティングされる -->
-    <h3>URLパラメータ付きのリンク</h3>
+    <h3>URLパラメータ付きのリンクと、パラメータの取得方法</h3>
     <p><router-link to="/about/1">・パラメータ 1表示</router-link></p>
     <p><router-link to="/about/2">・パラメータ 2表示</router-link></p>
     <p><router-link to="/about/3">・パラメータ 3表示</router-link></p>
@@ -73,7 +72,7 @@ export default{
   },
   mounted(){
     console.log("マウントしました。")
-    this.screenInfo = readJson("GAX10119");
+    this.screenInfo = readJson(this.$route.params.id);
   },
   computed: {
     splitURL: function () {
