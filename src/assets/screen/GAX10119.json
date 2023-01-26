@@ -6,7 +6,7 @@
         {
           "AX101190":{
             "items":{
-              "inputTitle1":{
+              "fixedItem":{
                 "type":"String",
                 "color":"black",
                 "size":"m"

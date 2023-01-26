@@ -1,22 +1,22 @@
 <template>
-    <div class="Menu">
+    <div class="GScreen">
         <PfKey/>
-        <TitleContainer msg="業務メニュー"/>
-        <GMenu/>
+        <TitleContainer msg="業務画面"/>
+        <GScreen/>
     </div>
 </template>
 
 <script>
 import TitleContainer from '@/components/TitleContainer.vue'
-import GMenu from '@/components/GuidanceMenuContainer.vue'
+import GScreen from '@/components/GScreenContainer.vue'
 import PfKey from '@/components/PfKey.vue'
 
 export default {
-    name: 'MenuView',
+    name: 'GScreenView',
     components: {
         PfKey,
         TitleContainer,
-        GMenu
+        GScreen
     }
 }
 </script>

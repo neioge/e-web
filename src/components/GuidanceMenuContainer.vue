@@ -3,8 +3,7 @@
         <tbody class="Table-Body">
             <tr class="Table-Body-Row" v-for="(gMenuName, index) in extractGMenus" :key="index">
                 <td class="Table-Body-Row-Cell"  v-if="Number(gMenuName.gMenuId) <= 15">
-                    <!-- 下記のリンクは仮ページ。初画面に遷移させたい -->
-                    <router-link :to="{ name: 'aboutParam', params: {id: gMenuName.initialScreen } }">
+                    <router-link :to="{ name: 'GScreen', params: {id: gMenuName.initialScreen } }">
                         {{gMenuName.gMenuName}}
                     </router-link>
                 </td>        
@@ -15,8 +14,7 @@
         <tbody class="Table-Body">
             <tr class="Table-Body-Row" v-for="(gMenuName, index) in extractGMenus" :key="index">
                 <td class="Table-Body-Row-Cell"  v-if="Number(gMenuName.gMenuId) > 15">
-                    <!-- 下記のリンクは仮ページ。初画面に遷移させたい -->
-                    <router-link :to="{ name: 'aboutParam', params: {id: gMenuName.gMenuId } }">
+                    <router-link :to="{ name: 'GScreen', params: {id: gMenuName.gMenuId } }">
                         {{gMenuName.gMenuName}}
                     </router-link>
                 </td>        

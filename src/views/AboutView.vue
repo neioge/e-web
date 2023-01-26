@@ -1,15 +1,34 @@
 <template>
   <div class="about">
-    <h1>初画面 現在はVueの機能のテスト用の場所</h1>
+    <h1>Vueの基本について</h1>
 
-    <!-- requireを使ってJsonファイルを読み込むテスト -->
-    <h3>requireを使ってJsonファイルを読み込むモジュール</h3>
-    <p v-for="(menu, index) in screenInfo" :key="index">
-     画面ID : {{menu.screenId}}
+    <h2>①requireを使ってJsonファイルを読み込むモジュール</h2>
+    <p>
+      画面の大枠をコンポーネントとして作成し、項目はすべて画面定義体Jsonファイルを読み込んで描画する。<br>
+      その際、業務メニュー画面からURLパラメータで渡された画面IDをもとに、適切な画面定義体を取得する必要がある。<br><br>
+      Javascriptでテキストファイル(Jsonなど)を読み込む際はImport文で読み込むが、Import文に変数をかませることができない。<br>
+      そのため、下記のモジュールを作成した。
     </p>
+    <pre>
+      <code>
+        export let readJson = screenID =>{
+          const jsonData= require(`@/assets/screen/${screenID}.json`); 
+          return jsonData;
+        }    
+      </code>
+    </pre>
 
-    <!-- URLパラメータ付きのリンク。クリックをするとroute.jsで定義したパラメータ付きのパスにルーティングされる -->
-    <h3>URLパラメータ付きのリンクと、パラメータの取得方法</h3>
+    <p>下記のリンクをクリックすると、このページにURLパラメータ「GAX10119」を渡して表示する。<br>
+      1.ライフサイクルフック「mounted()」の際に、「this.$route.params.id」でURLパラメータを取得する。<br>
+      2.モジュール「readJson」にURLパラメータ「GAX10119」を渡して実行する。<br>
+      3.結果、GAX10119.jsonを読み込んで、画面を描画する。
+    </p>
+    <router-link to="/about/GAX10119">
+      画面GAX10119を読み込む
+    </router-link>
+    <p>{{ screenInfo }}</p>
+
+    <h2>②URLパラメータ付きのリンク。クリックをするとroute.jsで定義したパラメータ付きのパスにルーティング</h2>
     <p><router-link to="/about/1">・パラメータ 1表示</router-link></p>
     <p><router-link to="/about/2">・パラメータ 2表示</router-link></p>
     <p><router-link to="/about/3">・パラメータ 3表示</router-link></p>
@@ -18,26 +37,22 @@
     <p>ページ更新時にプロパティdataに一度$route変数を格納してから表示 ⇒  {{ path }}</p>
     <p>ページ更新時にプロパティdataで定義した文字列を表示 ⇒ 「{{message}}」</p>
 
-    <!-- パスとパラメータを分割して取得：ライフサイクルフック -->
-    <h3>ライフサイクルフック「created」を使って、URLをもとにパスとパラメータを切り離して表示</h3>
+    <h2>③ライフサイクルフック「created」を使って、URLをもとにパスとパラメータを切り離して表示</h2>
     <p v-for="(splitedURLString, index) in splitedURLStrings" :key="index">
       {{splitedURLString}}
     </p>
 
-    <!-- パスとパラメータを分割して取得：computed -->
-    <h3>computedを使って、URLをもとにパスとパラメータを切り離して表示</h3>
+    <h2>④computedを使って、URLをもとにパスとパラメータを切り離して表示</h2>
     <p v-for="(splitedURLString, index) in splitURL" :key="index">
       {{splitedURLString}}
     </p>
 
-    <!-- パスとパラメータを分割して取得：methods -->
-    <h3>methodsを使って、URLをもとにパスとパラメータを切り離して表示</h3>
+    <h2>⑤methodsを使って、URLをもとにパスとパラメータを切り離して表示</h2>
     <p v-for="(splitedURLString, index) in splitURLMethod()" :key="index">
       {{splitedURLString}}
     </p>
 
-    <!-- メニュー情報から、パラメータをインデックスとして業務メニューを取得 -->
-    <h3>methodを使って、URLパラメータとサブメニューIDが合致するサブメニューの業務メニューの一覧を表示</h3>
+    <h2>⑥methodを使って、URLパラメータとサブメニューIDが合致するサブメニューの業務メニューの一覧を表示</h2>
     <div v-for="(gMenuName, index) in extractGMenus" :key="index">
       <p v-if="Number(gMenuName.gMenuId) > 15">
         {{gMenuName.gMenuName}}
@@ -45,9 +60,9 @@
     </div>    
 
     <!-- JSONファイルを読み込む実験 -->
-    <h3>JSONファイルを読み込み、メニュー情報をdataプロパティに格納・表示</h3>
+    <h2>⑦JSONファイルを読み込み、メニュー情報をdataプロパティに格納・表示</h2>
     <p v-for="(menu, index) in AllMenus" :key="index">
-      {{menu}}
+      <a v-if="Number(menu.subMenuId) <= 3">{{menu.subMenuName}}</a>
     </p>
     
   </div>
@@ -71,16 +86,18 @@ export default{
     this.splitedURLStrings = this.path.split('/');
   },
   mounted(){
-    console.log("マウントしました。")
-    this.screenInfo = readJson(this.$route.params.id);
+    // console.log(this.$route.params.id);
+    // console.log(typeof(this.$route.params.id));
+    // if( (this.$route.params.id != 'GAX10119') || (this.$route.params.id == null) ){
+    //   this.$route.params.id = 'GAX10121'
+    // }
+    // console.log(this.$route.params.id);
+    this.screenInfo = readJson(this.$route.params.id);  
   },
   computed: {
     splitURL: function () {
       return this.$route.path.split('/');
-    },
-    // extractGMenus: function() {
-    //   return this.AllMenus[this.$route.params.id - 1].guidanceMenus;
-    // }
+    }
   },
   methods: {
     splitURLMethod: function (){
@@ -89,3 +106,14 @@ export default{
   }
 }
 </script>
+<style>
+pre {
+  margin: 1em 0; /* ブロック前後の余白 */
+  padding: 1em; /* ブロック内の余白 */
+  border-radius: 5px; /* 角丸 */
+  background: #25292f; /* 背景色 */
+  color: #fff; /* 文字色 */
+  white-space: pre-wrap; /* はみ出たときに折り返す */
+  width: 40%
+}
+</style>

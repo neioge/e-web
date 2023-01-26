@@ -9,6 +9,11 @@ const routes = [
     component: SubMenuView
   },
   {
+    path: '/gmenu/:subMenuId',
+    name: 'gmenu',
+    component: GMenuView
+  },
+  {
     path: '/about/:id',
     name: 'aboutParam',
     component: () => import('@/views/AboutView.vue')
@@ -19,9 +24,9 @@ const routes = [
     component: () => import('@/views/AboutView.vue')
   },
   {
-    path: '/gmenu/:subMenuId',
-    name: 'gmenu',
-    component: GMenuView
+    path: '/GScreen/:id',
+    name: 'GScreen',
+    component: () => import('@/views/GScreenView.vue')
   }
 ]
 

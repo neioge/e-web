@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import HelloWorld from '@/components/HelloWorld.vue'
+import HelloWorld from '@/components/TitleContainer.vue'
 import PfKey from '@/components/PfKey.vue'
 import SubMenu from '@/components/SubMenuContainer.vue'
 

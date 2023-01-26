@@ -1,6 +1,32 @@
 [
-    {
-      "screenId": "GAX10121",
-      "screenName": "住所一覧"
-    }
+  {
+    "screenGrpId": "GAX10121",
+    "screenGrpName": "住所一覧",
+    "screenIdList":[
+      {
+        "AX101190":{
+          "items":{
+            "fixedItem":{
+              "type":"String",
+              "color":"black",
+              "size":"m"
+            },
+            "inputArea1":{
+              "type":"Input",
+              "defaultAttr":"",
+              "size":"m",
+              "mustInput":"True"
+            }
+          },
+          "screenIdName":""
+        },
+        "AX101210":{
+
+        },
+        "AX101211":{
+
+        }
+      }
+    ]
+  }
 ]  
