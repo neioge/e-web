@@ -1,7 +1,7 @@
 <template>
     <table class="Table" align="left">
         <tbody class="Table-Body">
-            <tr class="Table-Body-Row" v-for="menuItem in AllMenus" :key="menuItem.id" >
+            <tr class="Table-Body-Row" v-for="menuItem in AllMsenus" :key="menuItem.id" >
                 <td class="Table-Body-Row-Cell" v-if="Number(menuItem.subMenuId) <= 15">
                     <router-link :to="{ name: 'gmenu', params: {subMenuId: menuItem.subMenuId } }">
                         {{ menuItem.subMenuName }}

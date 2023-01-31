@@ -14,19 +14,30 @@ const routes = [
     component: GMenuView
   },
   {
-    path: '/about/:id',
-    name: 'aboutParam',
+    path: '/about',
+    name: 'about',
     component: () => import('@/views/AboutView.vue')
   },
   {
-    path: '/about',
-    name: 'about',
+    path: '/about/:id',
+    name: 'aboutParam',
     component: () => import('@/views/AboutView.vue')
   },
   {
     path: '/GScreen/:id',
     name: 'GScreen',
     component: () => import('@/views/GScreenView.vue')
+  },
+  {
+    path:'/acc',
+    name:'acc',
+    component:()=>import('@/views/AccordionTest/AccordionList.vue')
+  }
+  ,
+  {
+    path:'/acc2',
+    name:'acc2',
+    component:()=>import('@/views/AccordionTest/AccordionView.vue')
   }
 ]
 
